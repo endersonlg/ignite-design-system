@@ -36,5 +36,9 @@
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "vite": "^4.3.9"
+  },
+  "storybook-deployer": {
+    "gitUsername": "endersonlg",
+    "gitEmail": "endersonluciog@gmail.com"
   }
 }
