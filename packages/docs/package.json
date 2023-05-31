@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@storybook/addon-essentials": "^7.0.17",
     "@storybook/addon-interactions": "^7.0.17",
