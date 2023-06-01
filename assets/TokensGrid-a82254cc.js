@@ -1,0 +1,2 @@
+import{j as e}from"./jsx-runtime-b28a52d8.js";function i({tokens:n,hasRemValue:r=!1}){return e.jsxs("table",{className:"tokens-grid",children:[e.jsx("thead",{children:e.jsxs("tr",{children:[e.jsx("th",{children:"Name"}),e.jsx("th",{children:"Value"}),r&&e.jsx("th",{children:"Pixels"})]})}),e.jsx("tbody",{children:Object.entries(n).map(([s,t])=>e.jsxs("tr",{children:[e.jsx("td",{children:s}),e.jsx("td",{children:t}),r&&e.jsxs("td",{children:[Number(t.replace("rem",""))*16,"px"]})]},s))})]})}export{i as T};
+//# sourceMappingURL=TokensGrid-a82254cc.js.map
